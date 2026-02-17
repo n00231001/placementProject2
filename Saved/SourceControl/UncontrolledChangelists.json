@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/n00231001/Desktop/try/ProjectPlacement/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/n00231001/Desktop/try/ProjectPlacement/Content/BP_projectile.uasset",
+				"C:/Users/n00231001/Desktop/try/ProjectPlacement/Content/Weapons/Grenade.uasset",
+				"C:/Users/n00231001/Desktop/try/ProjectPlacement/Content/Weapons/explosion.uasset",
+				"C:/Users/n00231001/Desktop/try/ProjectPlacement/Content/NewParticleSystem.uasset"
+			]
+		}
+	]
+}
