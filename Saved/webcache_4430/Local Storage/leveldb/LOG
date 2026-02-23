@@ -1,18 +1,2 @@
-2026/02/23-14:51:10.905 58b0 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/23-14:51:10.906 58b0 Recovering log #49
-2026/02/23-14:51:10.906 58b0 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000049.log 
-2026/02/23-14:52:13.080 7ed4 Level-0 table #53: started
-2026/02/23-14:52:13.082 7ed4 Level-0 table #53: 78646 bytes OK
-2026/02/23-14:52:13.083 7ed4 Delete type=0 #49
-2026/02/23-14:54:13.086 8348 Level-0 table #55: started
-2026/02/23-14:54:13.089 8348 Level-0 table #55: 77986 bytes OK
-2026/02/23-14:54:13.090 8348 Delete type=0 #52
-2026/02/23-14:54:13.090 8348 Compacting 4@0 + 1@1 files
-2026/02/23-14:54:13.092 8348 Generated table #56@0: 4 keys, 39041 bytes
-2026/02/23-14:54:13.092 8348 Compacted 4@0 + 1@1 files => 39041 bytes
-2026/02/23-14:54:13.093 8348 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/23-14:54:13.093 8348 Delete type=2 #46
-2026/02/23-14:54:13.093 8348 Delete type=2 #48
-2026/02/23-14:54:13.093 8348 Delete type=2 #50
-2026/02/23-14:54:13.093 8348 Delete type=2 #53
-2026/02/23-14:54:13.093 8348 Delete type=2 #55
+2026/02/23-20:58:01.333 6463c Creating DB C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/02/23-20:58:01.369 6463c Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
