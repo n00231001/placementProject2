@@ -2744,3 +2744,63 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.23-14.31.55:449][845]AssetCheck: /Game/NewMap Validating asset
 [2026.02.23-14.31.57:334][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.23-14.32.58:434][954]LogFab: Display: Asset Type = unreal-engine
+[2026.02.23-14.32.58:434][954]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.32.58:434][954]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/TriPlana2fbe6668553eV1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/TriPlana2fbe6668553eV1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/TriPlana2fbe6668553eV1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/TriPlana2fbe6668553eV1/CloudDir
+[2026.02.23-14.34.05:906][294]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.34.05:906][294]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.34.05:906][294]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Content/Developers/n00231001/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.34.38:483][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.23-14.34.39:912][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.23-14.34.39:954][786]LogStall: Shutdown...
+[2026.02.23-14.34.39:955][786]LogStall: Shutdown complete.
+[2026.02.23-14.34.39:997][786]LogSlate: Window 'Content Browser' being destroyed
+[2026.02.23-14.34.40:041][786]LogSlate: Window 'Fab' being destroyed
+[2026.02.23-14.34.40:045][786]LogSlate: Window 'ProjectPlacement - Unreal Editor' being destroyed
+[2026.02.23-14.34.40:045][786]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.23-14.34.40:123][786]Cmd: QUIT_EDITOR
+[2026.02.23-14.34.40:123][787]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.23-14.34.40:132][787]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.23-14.34.40:133][787]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.23-14.34.40:133][787]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.23-14.34.40:137][787]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:137][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:149][787]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.23-14.34.40:149][787]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.23-14.34.40:149][787]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.23-14.34.40:152][787]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:152][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:152][787]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:152][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:152][787]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:152][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:152][787]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.23-14.34.40:153][787]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.23-14.34.40:154][787]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.23-14.34.40:987][787]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.23-14.34.40:987][787]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.23-14.34.40:987][787]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.02.23-14.34.40:987][787]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.23-14.34.40:987][787]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.23-14.34.40:990][787]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.23-14.34.40:997][787]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.23-14.34.40:997][787]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.23-14.34.41:001][787]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.23-14.34.41:001][787]LogExit: Preparing to exit.
+[2026.02.23-14.34.41:031][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.23-14.34.42:101][787]LogEditorDataStorage: Deinitializing
+[2026.02.23-14.34.42:228][787]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.23-14.34.42:247][787]LogExit: Editor shut down
+[2026.02.23-14.34.42:249][787]LogExit: Transaction tracking system shut down
+[2026.02.23-14.34.42:362][787]LogExit: Object subsystem successfully closed.
+[2026.02.23-14.34.42:396][787]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.23-14.34.42:530][787]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/ae246125-8087-4e0c-b019-4f03bd0992b3.
+[2026.02.23-14.34.42:668][787]LogMemoryProfiler: Shutdown
+[2026.02.23-14.34.42:668][787]LogNetworkingProfiler: Shutdown
+[2026.02.23-14.34.42:668][787]LoadingProfiler: Shutdown
+[2026.02.23-14.34.42:668][787]LogTimingProfiler: Shutdown
+[2026.02.23-14.34.42:668][787]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.23-14.34.42:668][787]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.23-14.34.42:971][787]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.23-14.34.42:986][787]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.23-14.34.42:986][787]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B949F6837-4C7C-A3ED-BE9E-56B00EAB383E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=6d8ec7b9436cc0d68a7aee9cf416e559%7C1aff1ab8b88f4100a116e739a369ff18%7C31484f05-46fb-4307-b43e-8f8c18978408&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
