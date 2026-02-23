@@ -1,3 +1,45 @@
-2026/02/17-13:38:57.217 3d0c Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/17-13:38:57.218 3d0c Recovering log #3
-2026/02/17-13:38:57.218 3d0c Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/02/23-10:57:47.990 26e0 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/23-10:57:47.991 26e0 Recovering log #10
+2026/02/23-10:57:47.992 26e0 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000010.log 
+2026/02/23-10:58:51.245 26e0 Level-0 table #14: started
+2026/02/23-10:58:51.248 26e0 Level-0 table #14: 67290 bytes OK
+2026/02/23-10:58:51.249 26e0 Delete type=0 #10
+2026/02/23-11:00:51.257 4fc Level-0 table #16: started
+2026/02/23-11:00:51.260 4fc Level-0 table #16: 74486 bytes OK
+2026/02/23-11:00:51.262 4fc Delete type=0 #13
+2026/02/23-11:00:51.262 4fc Compacting 4@0 + 1@1 files
+2026/02/23-11:00:51.265 4fc Generated table #17@0: 4 keys, 38337 bytes
+2026/02/23-11:00:51.265 4fc Compacted 4@0 + 1@1 files => 38337 bytes
+2026/02/23-11:00:51.266 4fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/23-11:00:51.266 4fc Delete type=2 #7
+2026/02/23-11:00:51.266 4fc Delete type=2 #9
+2026/02/23-11:00:51.266 4fc Delete type=2 #11
+2026/02/23-11:00:51.266 4fc Delete type=2 #14
+2026/02/23-11:00:51.266 4fc Delete type=2 #16
+2026/02/23-11:02:51.247 5760 Level-0 table #19: started
+2026/02/23-11:02:51.251 5760 Level-0 table #19: 80543 bytes OK
+2026/02/23-11:02:51.252 5760 Delete type=0 #15
+2026/02/23-11:05:15.750 5f04 Level-0 table #21: started
+2026/02/23-11:05:15.753 5f04 Level-0 table #21: 81030 bytes OK
+2026/02/23-11:05:15.754 5f04 Delete type=0 #18
+2026/02/23-11:09:59.484 4b04 Level-0 table #23: started
+2026/02/23-11:09:59.486 4b04 Level-0 table #23: 80779 bytes OK
+2026/02/23-11:09:59.487 4b04 Delete type=0 #20
+2026/02/23-11:10:11.911 5f04 Level-0 table #25: started
+2026/02/23-11:10:11.913 5f04 Level-0 table #25: 80603 bytes OK
+2026/02/23-11:10:11.914 5f04 Delete type=0 #22
+2026/02/23-11:10:11.915 5f04 Compacting 4@0 + 1@1 files
+2026/02/23-11:10:11.917 5f04 Generated table #26@0: 4 keys, 40341 bytes
+2026/02/23-11:10:11.917 5f04 Compacted 4@0 + 1@1 files => 40341 bytes
+2026/02/23-11:10:11.917 5f04 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/23-11:10:11.917 5f04 Delete type=2 #17
+2026/02/23-11:10:11.917 5f04 Delete type=2 #19
+2026/02/23-11:10:11.917 5f04 Delete type=2 #21
+2026/02/23-11:10:11.917 5f04 Delete type=2 #23
+2026/02/23-11:10:11.917 5f04 Delete type=2 #25
+2026/02/23-11:10:51.254 4b04 Level-0 table #28: started
+2026/02/23-11:10:51.257 4b04 Level-0 table #28: 80323 bytes OK
+2026/02/23-11:10:51.259 4b04 Delete type=0 #24
+2026/02/23-11:12:51.249 7120 Level-0 table #30: started
+2026/02/23-11:12:51.252 7120 Level-0 table #30: 80575 bytes OK
+2026/02/23-11:12:51.253 7120 Delete type=0 #27

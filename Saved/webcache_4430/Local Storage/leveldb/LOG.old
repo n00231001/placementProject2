@@ -1,2 +1,15 @@
-2026/02/17-12:31:11.478 4584 Creating DB C:/Users/n00231001/Desktop/try/ProjectPlacement/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/02/17-12:31:11.493 4584 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/23-10:30:15.174 4d44 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/23-10:30:15.185 4d44 Recovering log #3
+2026/02/23-10:30:15.185 4d44 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/02/23-10:39:52.761 714c Level-0 table #5: started
+2026/02/23-10:39:52.765 714c Level-0 table #5: 75089 bytes OK
+2026/02/23-10:39:52.767 714c Delete type=0 #3
+2026/02/23-10:42:17.272 7a0c Level-0 table #7: started
+2026/02/23-10:42:17.275 7a0c Level-0 table #7: 71865 bytes OK
+2026/02/23-10:42:17.277 7a0c Delete type=0 #4
+2026/02/23-10:45:17.284 4eec Level-0 table #9: started
+2026/02/23-10:45:17.287 4eec Level-0 table #9: 73722 bytes OK
+2026/02/23-10:45:17.288 4eec Delete type=0 #6
+2026/02/23-10:47:17.285 77e8 Level-0 table #11: started
+2026/02/23-10:47:17.288 77e8 Level-0 table #11: 62710 bytes OK
+2026/02/23-10:47:17.289 77e8 Delete type=0 #8
