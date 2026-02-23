@@ -2516,3 +2516,231 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-14.22.06:972][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.23-14.22.06:972][966]AssetCheck: /Game/NewMap Validating asset
 [2026.02.23-14.22.08:436][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.22.37:235][ 49]Cmd: EDIT COPY
+[2026.02.23-14.22.37:424][ 61]Cmd: EDIT PASTE
+[2026.02.23-14.22.56:099][179]Cmd: EDIT COPY
+[2026.02.23-14.22.56:310][193]Cmd: EDIT PASTE
+[2026.02.23-14.23.27:696][987]Cmd: EDIT COPY
+[2026.02.23-14.23.27:985][  5]Cmd: EDIT PASTE
+[2026.02.23-14.23.36:326][496]Cmd: EDIT COPY
+[2026.02.23-14.23.36:592][513]Cmd: EDIT PASTE
+[2026.02.23-14.23.58:827][799]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2880.888184
+[2026.02.23-14.23.58:986][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.23.58:986][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2881.036865, Update Interval: 329.532166
+[2026.02.23-14.24.11:601][497]Cmd: EDIT COPY
+[2026.02.23-14.24.11:831][512]Cmd: EDIT PASTE
+[2026.02.23-14.24.59:349][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.24.59:358][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.24.59:358][442]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2026.02.23-14.24.59:361][442]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.02.23-14.24.59:379][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.02.23-14.24.59:392][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014030s)
+[2026.02.23-14.24.59:392][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014082s)
+[2026.02.23-14.24.59:409][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.24.59:411][443]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.02.23-14.24.59:412][443]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2026.02.23-14.24.59:412][443]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.24.59:412][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.24.59:412][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.24.59:412][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.24.59:412][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.24.59:412][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.24.59:415][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.24.59:443][443]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.24.59:444][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.24.59:444][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.24.59:444][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.24.59:444][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.23-14.24.59:444][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.23-14.24.59:447][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.23-14.24.59:447][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.23-14.24.59:447][443]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.23-14.24.59:447][443]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2026.02.23-14.24.59:447][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-14.24.59:451][443]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.24.59:457][443]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.02.23-14.24.59
+[2026.02.23-14.24.59:457][443]LogWorld: Bringing up level for play took: 0.005815
+[2026.02.23-14.24.59:463][443]PIE: Server logged in
+[2026.02.23-14.24.59:465][443]PIE: Play in editor total start time 0.107 seconds.
+[2026.02.23-14.24.59:542][444]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.23-14.25.24:133][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.25.24:133][178]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.02.23-14.25.24:134][178]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.25.24:135][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.25.24:178][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.25.24:181][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.25.24:202][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.25.24:202][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-14.25.24:202][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.23-14.25.24:203][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.23-14.25.24:209][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.25.24:211][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.23-14.25.24:329][179]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.02.23-14.25.38:892][809]Cmd: TRANSACTION UNDO
+[2026.02.23-14.25.38:893][809]LogEditorTransaction: Undo Set Location
+[2026.02.23-14.25.54:892][744]Cmd: EDIT COPY
+[2026.02.23-14.25.55:132][760]Cmd: EDIT PASTE
+[2026.02.23-14.26.02:429][144]Cmd: EDIT COPY
+[2026.02.23-14.26.02:693][155]Cmd: EDIT PASTE
+[2026.02.23-14.26.27:705][518]Cmd: EDIT COPY
+[2026.02.23-14.26.27:957][534]Cmd: EDIT PASTE
+[2026.02.23-14.26.36:804][961]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.36:804][961]LogEditorTransaction: Undo Move Elements
+[2026.02.23-14.26.37:212][966]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.37:212][966]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.23-14.26.37:925][  1]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.37:925][  1]LogEditorTransaction: Undo Paste
+[2026.02.23-14.26.40:485][123]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.40:485][123]LogEditorTransaction: Undo Move Elements
+[2026.02.23-14.26.41:217][144]Cmd: EDIT COPY
+[2026.02.23-14.26.41:463][157]Cmd: EDIT PASTE
+[2026.02.23-14.26.46:008][347]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.46:008][347]LogEditorTransaction: Undo Move Elements
+[2026.02.23-14.26.46:796][370]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.46:796][370]LogEditorTransaction: Undo Paste
+[2026.02.23-14.26.55:941][852]Cmd: EDIT COPY
+[2026.02.23-14.26.56:184][867]Cmd: EDIT PASTE
+[2026.02.23-14.26.58:403][996]Cmd: TRANSACTION UNDO
+[2026.02.23-14.26.58:403][996]LogEditorTransaction: Undo Move Elements
+[2026.02.23-14.27.17:201][831]Cmd: TRANSACTION UNDO
+[2026.02.23-14.27.17:201][831]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.23-14.27.24:594][239]Cmd: EDIT COPY
+[2026.02.23-14.27.24:840][254]Cmd: EDIT PASTE
+[2026.02.23-14.27.32:762][671]Cmd: EDIT COPY
+[2026.02.23-14.27.33:007][682]Cmd: EDIT PASTE
+[2026.02.23-14.28.11:193][396]LogStreaming: Display: FlushAsyncLoading(428): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.28.11:197][396]LogStaticMesh: Display: Building static mesh SM_Skeleton_Pile_04 (Required Memory Estimate: 26.58416 MB)...
+[2026.02.23-14.28.11:344][396]LogStaticMesh: Built static mesh [0.15s] /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04
+[2026.02.23-14.28.11:502][403]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_04_BC.T_Skeleton_Pile_04_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.28.11:502][403]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_04_AO_R_MT.T_Skeleton_Pile_04_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.28.11:697][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04
+[2026.02.23-14.28.11:697][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04
+[2026.02.23-14.28.11:698][404]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_290
+[2026.02.23-14.28.11:880][412]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_04_N.T_Skeleton_Pile_04_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.28.12:578][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.28.12:579][439]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.23-14.28.12:584][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04
+[2026.02.23-14.28.12:584][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04
+[2026.02.23-14.28.12:585][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_04.SM_Skeleton_Pile_04 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_291
+[2026.02.23-14.28.21:064][831]Cmd: EDIT COPY
+[2026.02.23-14.28.21:585][855]Cmd: EDIT PASTE
+[2026.02.23-14.29.14:569][210]LogStreaming: Display: FlushAsyncLoading(429): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.14:571][210]LogStaticMesh: Display: Building static mesh SM_Skeleton_Pile_00 (Required Memory Estimate: 18.489615 MB)...
+[2026.02.23-14.29.14:671][210]LogStaticMesh: Built static mesh [0.10s] /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00
+[2026.02.23-14.29.14:859][217]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_00_BC.T_Skeleton_Pile_00_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.14:883][217]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_00_AO_R_MT.T_Skeleton_Pile_00_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.14:906][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00
+[2026.02.23-14.29.14:906][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00
+[2026.02.23-14.29.14:906][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_293
+[2026.02.23-14.29.15:183][225]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_00_N.T_Skeleton_Pile_00_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.16:516][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.29.16:518][281]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.02.23-14.29.16:523][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00
+[2026.02.23-14.29.16:523][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00
+[2026.02.23-14.29.16:524][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_00.SM_Skeleton_Pile_00 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_294
+[2026.02.23-14.29.18:152][355]Cmd: EDIT COPY
+[2026.02.23-14.29.18:382][366]Cmd: EDIT PASTE
+[2026.02.23-14.29.40:210][292]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.40:214][292]LogStaticMesh: Display: Building static mesh SM_Skeleton_Pile_05 (Required Memory Estimate: 49.810493 MB)...
+[2026.02.23-14.29.40:400][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05
+[2026.02.23-14.29.40:400][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05
+[2026.02.23-14.29.40:400][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_296
+[2026.02.23-14.29.40:416][293]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05) ...
+[2026.02.23-14.29.40:495][293]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Pole_AO_R_MT.T_Skeleton_Pile_05_Pole_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.40:528][293]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Skeleton_BC.T_Skeleton_Pile_05_Skeleton_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.40:550][293]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Pole_BC.T_Skeleton_Pile_05_Pole_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.40:567][293]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Skeleton_AO_R_MT.T_Skeleton_Pile_05_Skeleton_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.40:575][293]LogStaticMesh: Built static mesh [0.36s] /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05
+[2026.02.23-14.29.40:763][295]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Pole_N.T_Skeleton_Pile_05_Pole_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.40:874][298]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_05_Skeleton_N.T_Skeleton_Pile_05_Skeleton_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.29.42:385][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.23-14.29.42:387][359]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.02.23-14.29.42:392][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05
+[2026.02.23-14.29.42:392][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05
+[2026.02.23-14.29.42:393][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Meshes/Skeletons/SM_Skeleton_Pile_05.SM_Skeleton_Pile_05 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_297
+[2026.02.23-14.29.54:166][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.29.54:173][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.29.54:173][855]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2026.02.23-14.29.54:176][855]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.02.23-14.29.54:193][856]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.02.23-14.29.54:207][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014591s)
+[2026.02.23-14.29.54:208][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014632s)
+[2026.02.23-14.29.54:220][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.29.54:222][856]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.02.23-14.29.54:224][856]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2026.02.23-14.29.54:225][856]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.29.54:225][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.29.54:225][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.29.54:225][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.29.54:225][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.29.54:225][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.29.54:227][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.29.54:252][856]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.29.54:252][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.29.54:252][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.29.54:252][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.29.54:254][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.23-14.29.54:254][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.23-14.29.54:256][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.23-14.29.54:256][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.23-14.29.54:256][856]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.23-14.29.54:256][856]LogAudio: Display: Audio Device (ID: 6) registered with world 'NewMap'.
+[2026.02.23-14.29.54:257][856]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.23-14.29.54:261][856]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.29.54:267][856]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.02.23-14.29.54
+[2026.02.23-14.29.54:267][856]LogWorld: Bringing up level for play took: 0.006317
+[2026.02.23-14.29.54:273][856]PIE: Server logged in
+[2026.02.23-14.29.54:274][856]PIE: Play in editor total start time 0.101 seconds.
+[2026.02.23-14.29.54:353][857]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.23-14.30.06:456][331]LogCharacter: BP_FirstPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2026.02.23-14.30.07:977][385]LogCharacter: BP_FirstPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2026.02.23-14.30.08:696][409]LogCharacter: BP_FirstPersonCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2026.02.23-14.30.11:417][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3253.462158
+[2026.02.23-14.30.11:611][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.30.11:611][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3253.633057, Update Interval: 300.510895
+[2026.02.23-14.31.07:295][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.31.07:295][331]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.02.23-14.31.07:296][331]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.31.07:297][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.31.07:304][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.31.07:306][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.31.07:322][331]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.31.07:322][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.23-14.31.07:322][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.23-14.31.07:325][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.23-14.31.07:331][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.31.07:334][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.23-14.31.07:395][332]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.02.23-14.31.55:261][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.31.55:299][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.23-14.31.55:333][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.23-14.31.55:372][845]LogSavePackage: Moving output files for package: /Game/NewMap
+[2026.02.23-14.31.55:373][845]LogSavePackage: Moving '../../../../../Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/NewMap118068104132BCBCBBAEDCB3C870A290.tmp' to '../../../../../Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Content/NewMap.umap'
+[2026.02.23-14.31.55:382][845]LogFileHelpers: Saving map 'NewMap' took 0.084
+[2026.02.23-14.31.55:391][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.783 ms (total: 289.131 ms)
+[2026.02.23-14.31.55:449][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.31.55:449][845]LogContentValidation: Enabled validators:
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.31.55:449][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.31.55:449][845]AssetCheck: /Game/NewMap Validating asset
+[2026.02.23-14.31.57:334][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
