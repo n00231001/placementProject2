@@ -1,3 +1,24 @@
-2026/02/24-13:09:10.768 7374 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/24-13:09:10.769 7374 Recovering log #23
-2026/02/24-13:09:10.769 7374 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000023.log 
+2026/02/24-13:42:17.314 77e4 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/24-13:42:17.315 77e4 Recovering log #23
+2026/02/24-13:42:17.315 77e4 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000023.log 
+2026/02/24-13:43:19.771 77e4 Level-0 table #27: started
+2026/02/24-13:43:19.774 77e4 Level-0 table #27: 89927 bytes OK
+2026/02/24-13:43:19.775 77e4 Delete type=0 #23
+2026/02/24-13:43:19.775 77e4 Compacting 4@0 + 1@1 files
+2026/02/24-13:43:19.777 77e4 Generated table #28@0: 3 keys, 30312 bytes
+2026/02/24-13:43:19.777 77e4 Compacted 4@0 + 1@1 files => 30312 bytes
+2026/02/24-13:43:19.778 77e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/24-13:43:19.778 77e4 Delete type=2 #18
+2026/02/24-13:43:19.778 77e4 Delete type=2 #20
+2026/02/24-13:43:19.778 77e4 Delete type=2 #22
+2026/02/24-13:43:19.778 77e4 Delete type=2 #24
+2026/02/24-13:43:19.778 77e4 Delete type=2 #27
+2026/02/24-13:45:27.385 3780 Level-0 table #30: started
+2026/02/24-13:45:27.388 3780 Level-0 table #30: 62255 bytes OK
+2026/02/24-13:45:27.389 3780 Delete type=0 #26
+2026/02/24-13:47:57.540 10c0 Level-0 table #32: started
+2026/02/24-13:47:57.543 10c0 Level-0 table #32: 66726 bytes OK
+2026/02/24-13:47:57.543 10c0 Delete type=0 #29
+2026/02/24-13:49:19.777 3088 Level-0 table #34: started
+2026/02/24-13:49:19.780 3088 Level-0 table #34: 71766 bytes OK
+2026/02/24-13:49:19.781 3088 Delete type=0 #31
