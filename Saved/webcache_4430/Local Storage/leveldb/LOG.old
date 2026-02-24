@@ -1,12 +1,9 @@
-2026/02/24-11:28:45.308 fb4 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/24-11:28:45.309 fb4 Recovering log #3
-2026/02/24-11:28:45.309 fb4 Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/02/24-11:54:41.182 5810 Level-0 table #5: started
-2026/02/24-11:54:41.186 5810 Level-0 table #5: 65492 bytes OK
-2026/02/24-11:54:41.187 5810 Delete type=0 #3
-2026/02/24-11:56:10.083 218c Level-0 table #7: started
-2026/02/24-11:56:10.086 218c Level-0 table #7: 61991 bytes OK
-2026/02/24-11:56:10.087 218c Delete type=0 #4
-2026/02/24-11:56:52.282 5810 Level-0 table #9: started
-2026/02/24-11:56:52.285 5810 Level-0 table #9: 65433 bytes OK
-2026/02/24-11:56:52.287 5810 Delete type=0 #6
+2026/02/24-12:02:24.057 8e2c Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/24-12:02:24.059 8e2c Recovering log #8
+2026/02/24-12:02:24.059 8e2c Reusing old log C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2026/02/24-12:13:24.144 2208 Level-0 table #12: started
+2026/02/24-12:13:24.147 2208 Level-0 table #12: 72978 bytes OK
+2026/02/24-12:13:24.148 2208 Delete type=0 #8
+2026/02/24-12:13:54.535 8e2c Level-0 table #14: started
+2026/02/24-12:13:54.539 8e2c Level-0 table #14: 63489 bytes OK
+2026/02/24-12:13:54.542 8e2c Delete type=0 #11
