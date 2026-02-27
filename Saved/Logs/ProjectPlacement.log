@@ -1347,3 +1347,740 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.26-18.21.05:089][756]LogFab: Display: Asset Type = glb
 [2026.02.26-18.21.05:089][756]LogFab: Display: Is Quixel = 0
 [2026.02.26-18.21.09:079][ 59]LogFab: Error: Failed to download FAB Asset Madre Statue Scan MEDPOLY
+[2026.02.26-18.21.53:198][ 12]LogFab: Display: Logging in using account portal
+[2026.02.26-18.21.53:229][ 12]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay can be used with this login type
+[2026.02.26-18.21.53:229][ 12]LogEOSSDK: Warning: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not ready: EOS_DesktopCrossplay_ApplicationNotBootstrapped
+[2026.02.26-18.21.53:229][ 12]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not required for login
+[2026.02.26-18.21.53:450][ 24]LogEOSSDK: LogEOSAuth: GenerateUserAuthByDeviceCode: Received FUserAuthToken
+[2026.02.26-18.21.53:469][ 25]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Device auth to be continued at: <Redacted>
+[2026.02.26-18.21.53:469][ 25]LogEOSSDK: Warning: LogEOSAuth: UserAuthGenerated: Account Portal overlay failed to load for device auth continuation; falling back to browser based flow
+[2026.02.26-18.21.53:469][ 25]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Launching with platform browser: <Redacted>
+[2026.02.26-18.21.53:482][ 25]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Successfully launched with platform browser
+[2026.02.26-18.21.53:637][ 36]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-7Oh-162z5UGRwD-wCd9kqA]
+[2026.02.26-18.22.03:781][724]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-78btR44vl0uhjcLOma0k2w]
+[2026.02.26-18.22.07:099][950]LogFab: Display: Asset Type = glb
+[2026.02.26-18.22.07:099][950]LogFab: Display: Is Quixel = 0
+[2026.02.26-18.22.10:596][ 80]LogFab: Error: Failed to download FAB Asset Madre Statue MEDPOLY
+[2026.02.26-18.22.14:380][305]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-AJ2BPQzqNU-UqiSoglWgkw]
+[2026.02.26-18.22.23:997][ 99]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-18.22.24:582][103]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-xEl4MTpff0mxX0-8Zf6-Eg]
+[2026.02.26-18.22.24:619][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.26-18.22.24:734][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.26-18.22.25:162][109]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.26-18.22.34:962][720]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-fuURYgnG5UWMFZJFvXM8_Q]
+[2026.02.26-18.22.45:629][752]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-BLuXs8Uaw0y8pF80HA_i7g]
+[2026.02.26-18.22.55:965][783]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-MhxhgDBweUyb7R726o87-w]
+[2026.02.26-18.23.06:302][814]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-PuwdaJQtIkaAnIFAzlrsqQ]
+[2026.02.26-18.23.16:969][846]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 1af...f18 Access[Expires: 2026.02.27-17.29.11 Remaining: 7200.67] Refresh[Expires: 2026-08-26T15:29:11.667Z Remaining: 15552000.67] State: Valid
+[2026.02.26-18.23.17:303][847]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.26-18.23.18:306][850]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.26-18.23.18:306][850]LogFab: Display: User logged in
+[2026.02.26-18.23.18:306][850]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.26-18.23.18:952][855]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-T0kn45aSP0620wXBVaLZ-A-JyPPwCUNkEq6HkL5UzFXTw]
+[2026.02.26-18.23.26:261][208]LogFab: Display: Asset Type = glb
+[2026.02.26-18.23.26:261][208]LogFab: Display: Is Quixel = 0
+[2026.02.26-18.23.29:356][442]LogFab: Error: Failed to download FAB Asset Madre Statue MEDPOLY
+[2026.02.26-18.23.40:773][317]LogSlate: Window 'Fab' being destroyed
+[2026.02.26-18.23.40:778][317]LogSlate: Window 'Fab' being destroyed
+[2026.02.26-18.23.42:304][361]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.02.26-18.23.42:304][361]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/32cab428-889e-49e9-8c89-2ea78696aca2.
+[2026.02.26-18.23.42:447][366]LogFab: Display: Logging in using persist
+[2026.02.26-18.23.42:708][378]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 1af...f18 Access[Expires: 2026.02.27-17.29.37 Remaining: 7200.90] Refresh[Expires: 2026-08-26T15:29:11.667Z Remaining: 15551974.67] State: Valid
+[2026.02.26-18.23.42:719][379]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.26-18.23.42:896][395]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.26-18.23.42:896][395]LogFab: Display: User logged in
+[2026.02.26-18.23.42:897][395]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.26-18.23.51:419][162]LogFab: Display: Asset Type = glb
+[2026.02.26-18.23.51:419][162]LogFab: Display: Is Quixel = 0
+[2026.02.26-18.23.55:230][497]LogFab: Error: Failed to download FAB Asset Engel Statue Scan - Retopology
+[2026.02.26-18.24.05:812][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.26-18.24.06:307][447]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: ================================================
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: Total job queries 619, among them cache hits 66 (10.66%), DDC hits 458 (73.99%), Duplicates 87 (14.05%)
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: Tracking 466 distinct input hashes that result in 334 distinct outputs (71.67%)
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: RAM used: 4.16 MiB of 819.20 MiB budget. Usage: 0.51%
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: Shaders Compiled: 8
+[2026.02.26-18.24.18:628][300]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Time job spent in pending queue: average 3.27 s, longest 6.37 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Job execution time: average 2.84 s, max 6.32 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Job life time (pending + execution): average 6.10 s, max 8.40
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Shader code size: total 91.559 KiB, numShaders 8, average 11.444 KiB, min 5.969 KiB, max 15.781 KiB
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.42 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Average processing rate: 0.95 jobs/sec
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Total thread time: 12.68 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Total thread preprocess time: 8.971 s
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Percentage time preprocessing: 70.75%
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Effective parallelization: 1.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.752517
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.06 sec, max 1.08 sec, min 1.04 sec)
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.26-18.24.18:629][300]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 49.08% of total time (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.45% of total time (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.73% of total time (compiled    2 times, average 1.06 sec, max 1.08 sec, min 1.04 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display:                                            FDistortionMeshPS - 7.38% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display:                                            FDistortionMeshVS - 7.36% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: === Material stats ===
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Materials Translated:    184
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Material Total Translate Time: 2.11 s
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Material Translation Only: 0.10 s (5%)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2026.02.26-18.24.18:646][300]LogShaderCompilers: Display: ================================================
+[2026.02.26-18.24.56:327][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.27-15.31.31:937][ 26]LogFab: Display: Asset Type = glb
+[2026.02.27-15.31.31:937][ 26]LogFab: Display: Is Quixel = 0
+[2026.02.27-15.31.35:658][280]LogFab: Error: Failed to download FAB Asset Engel Statue Scan - Retopology
+[2026.02.27-15.31.41:160][709]LogFab: Display: Asset Type = glb
+[2026.02.27-15.31.41:160][709]LogFab: Display: Is Quixel = 0
+[2026.02.27-15.31.46:033][ 52]LogFab: Error: Failed to download FAB Asset Engel Statue Scan - Retopology
+[2026.02.27-15.32.00:835][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 694.945740
+[2026.02.27-15.32.00:983][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-15.32.00:983][506]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.083008, Update Interval: 334.618988
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Total job queries 628, among them cache hits 68 (10.83%), DDC hits 463 (73.73%), Duplicates 87 (13.85%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Tracking 473 distinct input hashes that result in 340 distinct outputs (71.88%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: RAM used: 4.20 MiB of 819.20 MiB budget. Usage: 0.51%
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Average time worker was idle: 12.00 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Time job spent in pending queue: average 2.62 s, longest 6.37 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Job execution time: average 2.57 s, max 6.32 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Job life time (pending + execution): average 5.19 s, max 8.40
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Shader code size: total 108.734 KiB, numShaders 10, average 10.873 KiB, min 5.969 KiB, max 15.781 KiB
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.28 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Average processing rate: 0.97 jobs/sec
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Total thread time: 15.109 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Total thread preprocess time: 9.158 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Percentage time preprocessing: 60.62%
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Effective parallelization: 1.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.734925
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.06 sec, max 1.08 sec, min 1.04 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 41.19% of total time (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.32% of total time (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.04% of total time (compiled    2 times, average 1.06 sec, max 1.08 sec, min 1.04 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.17% of total time (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display:                                            FDistortionMeshPS - 6.19% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: === Material stats ===
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Materials Translated:    185
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Material Total Translate Time: 2.11 s
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Material Translation Only: 0.10 s (5%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2026.02.27-15.33.13:275][466]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.33.13:866][515]LogFab: Display: Asset Type = glb
+[2026.02.27-15.33.13:866][515]LogFab: Display: Is Quixel = 0
+[2026.02.27-15.33.16:917][744]LogFab: Error: Failed to download FAB Asset Madre Statue MEDPOLY
+[2026.02.27-15.33.40:386][744]LogFab: Display: Asset Type = glb
+[2026.02.27-15.33.40:386][744]LogFab: Display: Is Quixel = 0
+[2026.02.27-15.33.57:152][105]LogFab: Error: Failed to download FAB Asset Saint Mary sculpture at the cemetery in Lublin
+[2026.02.27-15.34.58:799][876]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.27-15.35.01:037][977]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.27-15.35.01:137][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.27-15.35.28:365][ 15]LogFab: Display: Asset Type = glb
+[2026.02.27-15.35.28:365][ 15]LogFab: Display: Is Quixel = 0
+[2026.02.27-15.35.43:754][237]LogFab: Error: Failed to download FAB Asset Saint Mary sculpture at the cemetery in Lublin
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: Total job queries 633, among them cache hits 68 (10.74%), DDC hits 465 (73.46%), Duplicates 87 (13.74%)
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: Tracking 478 distinct input hashes that result in 344 distinct outputs (71.97%)
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: RAM used: 4.23 MiB of 819.20 MiB budget. Usage: 0.52%
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.27-15.36.13:281][800]LogShaderCompilers: Display: Shaders Compiled: 13
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Average time worker was idle: 89.94 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Time job spent in pending queue: average 2.04 s, longest 6.37 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Job execution time: average 3.91 s, max 9.10 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Job life time (pending + execution): average 5.94 s, max 9.19
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Shader code size: total 139.277 KiB, numShaders 13, average 10.713 KiB, min 5.969 KiB, max 15.781 KiB
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.47 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Average processing rate: 0.67 jobs/sec
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Total thread time: 20.407 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Total thread preprocess time: 9.231 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Percentage time preprocessing: 45.23%
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.524131
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 2.04 sec, max 2.54 sec, min 1.54 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.19 sec, max 1.50 sec, min 0.89 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.13 sec, max 1.26 sec, min 1.04 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 30.50% of total time (compiled    2 times, average 3.11 sec, max 3.15 sec, min 3.08 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.00% of total time (compiled    2 times, average 2.04 sec, max 2.54 sec, min 1.54 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.56% of total time (compiled    3 times, average 1.13 sec, max 1.26 sec, min 1.04 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.09% of total time (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.71% of total time (compiled    2 times, average 1.19 sec, max 1.50 sec, min 0.89 sec)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: === Material stats ===
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Materials Translated:    185
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Material Total Translate Time: 2.11 s
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Material Translation Only: 0.10 s (5%)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2026.02.27-15.36.13:282][800]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.36.31:686][477]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall
+[2026.02.27-15.36.31:686][477]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall
+[2026.02.27-15.36.31:686][477]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_473
+[2026.02.27-15.36.32:472][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.27-15.36.32:474][539]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.02.27-15.36.32:482][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall
+[2026.02.27-15.36.32:482][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall
+[2026.02.27-15.36.32:484][539]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Medieval_Food_Stall/medieval_food_stall/StaticMeshes/medieval_food_stall.medieval_food_stall as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_477
+[2026.02.27-15.36.34:470][713]Cmd: DELETE
+[2026.02.27-15.36.34:484][713]Cmd: ACTOR DELETE
+[2026.02.27-15.36.34:712][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.27-15.36.34:730][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.27-15.36.34:732][713]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2026.02.27-15.36.42:606][528]Cmd: EDIT COPY
+[2026.02.27-15.36.42:828][551]Cmd: EDIT PASTE
+[2026.02.27-15.37.05:280][483]Cmd: TRANSACTION UNDO
+[2026.02.27-15.37.05:280][483]LogEditorTransaction: Undo Set Rotation
+[2026.02.27-15.37.17:693][547]Cmd: EDIT COPY
+[2026.02.27-15.37.18:011][575]Cmd: EDIT PASTE
+[2026.02.27-15.37.40:316][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1034.425903
+[2026.02.27-15.37.40:465][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-15.37.40:465][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1034.564209, Update Interval: 342.287659
+[2026.02.27-15.37.59:313][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.27-15.37.59:387][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jason/Documents/GitHub/placementProject2/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.27-15.38.00:397][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto1
+[2026.02.27-15.38.00:397][267]LogSavePackage: Moving 'C:/Users/jason/Documents/GitHub/placementProject2/Saved/NewMap_Auto18B06694441A310F0C4F3A59585B80930.tmp' to 'C:/Users/jason/Documents/GitHub/placementProject2/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2026.02.27-15.38.00:483][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 1.192
+[2026.02.27-15.38.00:483][267]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.192
+[2026.02.27-15.38.37:078][958]Cmd: EDIT COPY
+[2026.02.27-15.38.37:332][986]Cmd: EDIT PASTE
+[2026.02.27-15.38.46:619][963]Cmd: TRANSACTION UNDO
+[2026.02.27-15.38.46:619][963]LogEditorTransaction: Undo Set Rotation
+[2026.02.27-15.39.13:093][579]Cmd: EDIT COPY
+[2026.02.27-15.39.13:369][605]Cmd: EDIT PASTE
+[2026.02.27-15.39.30:404][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow
+[2026.02.27-15.39.30:404][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow
+[2026.02.27-15.39.30:405][157]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_482
+[2026.02.27-15.39.31:114][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.27-15.39.31:115][216]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.27-15.39.31:123][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow
+[2026.02.27-15.39.31:123][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow
+[2026.02.27-15.39.31:124][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Medieval_Wheel_Barrow/medieval_wheel_barrow/StaticMeshes/medieval_wheel_barrow.medieval_wheel_barrow as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_483
+[2026.02.27-15.40.12:869][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.40.12:869][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.40.12:869][165]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_484
+[2026.02.27-15.40.13:838][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.27-15.40.13:839][253]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2026.02.27-15.40.13:846][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.40.13:847][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.40.13:848][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Wooden_barrel/barrel/StaticMeshes/barrel.barrel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_485
+[2026.02.27-15.40.24:851][386]Cmd: EDIT COPY
+[2026.02.27-15.40.25:114][413]Cmd: EDIT PASTE
+[2026.02.27-15.40.29:266][845]Cmd: EDIT COPY
+[2026.02.27-15.40.29:586][879]Cmd: EDIT PASTE
+[2026.02.27-15.41.21:693][ 73]Cmd: EDIT COPY
+[2026.02.27-15.41.22:022][ 75]Cmd: EDIT PASTE
+[2026.02.27-15.41.57:674][668]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Skeletons/T_Skeleton_Pile_04_N.T_Skeleton_Pile_04_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.42.12:657][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.42.12:657][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.42.12:658][ 60]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_489
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Total job queries 636, among them cache hits 68 (10.69%), DDC hits 465 (73.11%), Duplicates 87 (13.68%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Tracking 481 distinct input hashes that result in 346 distinct outputs (71.93%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: RAM used: 4.25 MiB of 819.20 MiB budget. Usage: 0.52%
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Shaders Compiled: 16
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Average time worker was idle: 126.91 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Time job spent in pending queue: average 1.66 s, longest 6.37 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Job execution time: average 3.45 s, max 9.10 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Job life time (pending + execution): average 5.11 s, max 9.19
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Shader code size: total 173.617 KiB, numShaders 16, average 10.851 KiB, min 5.969 KiB, max 15.781 KiB
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.73 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Average processing rate: 0.74 jobs/sec
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Total thread time: 23.928 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Total thread preprocess time: 9.282 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Percentage time preprocessing: 38.79%
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Effective parallelization: 1.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.550571
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 2.73 sec, max 3.15 sec, min 1.98 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 2.04 sec, max 2.54 sec, min 1.54 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.08 sec, max 1.50 sec, min 0.85 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.02 sec, max 1.26 sec, min 0.70 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 34.27% of total time (compiled    3 times, average 2.73 sec, max 3.15 sec, min 1.98 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.05% of total time (compiled    2 times, average 2.04 sec, max 2.54 sec, min 1.54 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.04% of total time (compiled    4 times, average 1.02 sec, max 1.26 sec, min 0.70 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.52% of total time (compiled    3 times, average 1.08 sec, max 1.50 sec, min 0.85 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.31% of total time (compiled    2 times, average 1.23 sec, max 1.28 sec, min 1.19 sec)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: === Material stats ===
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Materials Translated:    185
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Material Total Translate Time: 2.11 s
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Material Translation Only: 0.10 s (5%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2026.02.27-15.42.13:297][124]LogShaderCompilers: Display: ================================================
+[2026.02.27-15.42.13:376][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.27-15.42.13:378][130]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.27-15.42.13:385][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.42.13:385][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel
+[2026.02.27-15.42.13:387][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Barrel/barrel/StaticMeshes/barrel.barrel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_490
+[2026.02.27-15.42.32:052][978]Cmd: EDIT COPY
+[2026.02.27-15.42.32:311][  7]Cmd: EDIT PASTE
+[2026.02.27-15.42.42:468][935]Cmd: EDIT COPY
+[2026.02.27-15.42.42:701][958]Cmd: EDIT PASTE
+[2026.02.27-15.42.44:927][176]Cmd: EDIT COPY
+[2026.02.27-15.42.45:178][202]Cmd: EDIT PASTE
+[2026.02.27-15.42.47:056][389]Cmd: EDIT COPY
+[2026.02.27-15.42.47:288][412]Cmd: EDIT PASTE
+[2026.02.27-15.42.52:127][902]Cmd: EDIT COPY
+[2026.02.27-15.42.52:384][926]Cmd: EDIT PASTE
+[2026.02.27-15.43.36:518][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1390.631470
+[2026.02.27-15.43.36:696][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-15.43.36:696][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1390.800293, Update Interval: 309.911804
+[2026.02.27-15.44.38:093][996]Cmd: EDIT COPY
+[2026.02.27-15.44.38:328][ 21]Cmd: EDIT PASTE
+[2026.02.27-15.44.53:952][565]Cmd: EDIT PASTE
+[2026.02.27-15.44.59:130][ 73]Cmd: EDIT COPY
+[2026.02.27-15.44.59:381][ 99]Cmd: EDIT PASTE
+[2026.02.27-15.44.59:382][ 99]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.02.27-15.45.06:773][800]Cmd: EDIT COPY
+[2026.02.27-15.45.07:012][826]Cmd: EDIT PASTE
+[2026.02.27-15.45.25:740][837]Cmd: EDIT COPY
+[2026.02.27-15.45.25:985][863]Cmd: EDIT PASTE
+[2026.02.27-15.48.00:871][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.27-15.48.00:873][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jason/Documents/GitHub/placementProject2/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.27-15.48.01:214][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto2
+[2026.02.27-15.48.01:215][814]LogSavePackage: Moving 'C:/Users/jason/Documents/GitHub/placementProject2/Saved/NewMap_Auto21AA290924E1F626A0B975B94AA1F3B30.tmp' to 'C:/Users/jason/Documents/GitHub/placementProject2/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2026.02.27-15.48.01:216][814]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.371
+[2026.02.27-15.48.01:217][814]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.371
+[2026.02.27-15.49.13:744][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1727.846069
+[2026.02.27-15.49.13:907][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-15.49.13:907][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1727.999146, Update Interval: 349.914246
+[2026.02.27-15.49.46:212][384]Cmd: EDIT COPY
+[2026.02.27-15.49.46:458][410]Cmd: EDIT PASTE
+[2026.02.27-15.49.56:302][364]Cmd: EDIT COPY
+[2026.02.27-15.49.56:527][389]Cmd: EDIT PASTE
+[2026.02.27-15.50.03:479][ 60]Cmd: TRANSACTION UNDO
+[2026.02.27-15.50.03:479][ 60]LogEditorTransaction: Undo Move Elements
+[2026.02.27-15.50.05:855][270]Cmd: TRANSACTION UNDO
+[2026.02.27-15.50.05:855][270]LogEditorTransaction: Undo Move Elements
+[2026.02.27-15.50.21:723][931]Cmd: EDIT COPY
+[2026.02.27-15.50.21:975][957]Cmd: EDIT PASTE
+[2026.02.27-15.50.27:620][439]Cmd: TRANSACTION UNDO
+[2026.02.27-15.50.27:620][439]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.27-15.50.54:679][255]LogTexture: Display: Building textures: /Game/Dungeon/Textures/Props/T_Dungeon_toplock_N.T_Dungeon_toplock_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.51.11:279][768]Cmd: EDIT COPY
+[2026.02.27-15.51.11:530][794]Cmd: EDIT PASTE
+[2026.02.27-15.52.36:219][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table
+[2026.02.27-15.52.36:219][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table
+[2026.02.27-15.52.36:220][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_551
+[2026.02.27-15.52.36:822][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.27-15.52.36:823][271]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.27-15.52.36:830][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table
+[2026.02.27-15.52.36:830][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table
+[2026.02.27-15.52.36:832][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Medieval_Tavern_Props/Meshes/SM_Table.SM_Table as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_552
+[2026.02.27-15.52.37:743][346]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.02.27-15.52.37:744][346]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.02.27-15.52.37:744][346]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 0 (Found bundle for host: 0x22704880090 [serially])
+[2026.02.27-15.52.37:744][346]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.02.27-15.52.37:744][346]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 2 (Closing connection)
+[2026.02.27-15.52.37:744][346]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61
+[2026.02.27-15.52.38:752][449]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61
+[2026.02.27-15.52.42:505][832]Cmd: TRANSACTION UNDO
+[2026.02.27-15.52.42:505][832]LogEditorTransaction: Undo Set Scale
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 1 (upload completely sent off: 441 bytes)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 4 (shutting down connection #0)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBA2B3B8-4899-2475-27CC-35927BBF0291%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2785edf84d3d5450faabad89ed7c3937%7C1aff1ab8b88f4100a116e739a369ff18%7C66365cbe-1b63-48cd-ace5-3bb6be52fa97&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 11 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.02.27-15.52.45:879][114]LogHttp: Warning: 0000022730A01500: libcurl info message cache 12 (shutting down connection #3)
+[2026.02.27-15.52.45:907][114]LogHttp: Warning: 0000022730A01500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBA2B3B8-4899-2475-27CC-35927BBF0291%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2785edf84d3d5450faabad89ed7c3937%7C1aff1ab8b88f4100a116e739a369ff18%7C66365cbe-1b63-48cd-ace5-3bb6be52fa97&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 16.18s
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 3 (Found bundle for host: 0x22704880090 [serially])
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000227A2FD5400: libcurl info message cache 5 (Closing connection)
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000226A8AFA800: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000226A8AFA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000226A8AFA800: libcurl info message cache 0 (Found bundle for host: 0x22704880090 [serially])
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000226A8AFA800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.02.27-15.52.49:840][510]LogEOSSDK: Warning: LogHttp: 00000226A8AFA800: libcurl info message cache 2 (Closing connection)
+[2026.02.27-15.52.49:840][511]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61
+[2026.02.27-15.52.49:840][511]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2026.02.27-15.52.49:849][511]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 1af...f18
+[2026.02.27-15.52.50:850][611]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61
+[2026.02.27-15.52.50:850][611]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2026.02.27-15.52.53:127][834]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4B87978046F61F7022A5F58A2A197E61
+[2026.02.27-15.52.53:136][835]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2026.02.27-15.53.04:209][620]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.53.04:473][630]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Claybeg/T_Medieval_Weapons_Claybeg_B.T_Medieval_Weapons_Claybeg_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.04:475][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.04:475][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.04:476][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_553
+[2026.02.27-15.53.04:503][630]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Claybeg (Required Memory Estimate: 3.881204 MB)...
+[2026.02.27-15.53.04:519][630]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg) ...
+[2026.02.27-15.53.04:579][630]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Claybeg/T_Medieval_Weapons_Claybeg_AO_R_MT.T_Medieval_Weapons_Claybeg_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.04:772][630]LogStaticMesh: Built static mesh [0.27s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.06:079][729]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Claybeg/T_Medieval_Weapons_Claybeg_BC.T_Medieval_Weapons_Claybeg_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.06:281][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.27-15.53.06:283][744]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.02.27-15.53.06:291][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.06:291][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.06:293][744]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Claybeg.SM_Medieval_Weapons_Claybeg as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_554
+[2026.02.27-15.53.06:421][745]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Claybeg/T_Medieval_Weapons_Claybeg_N.T_Medieval_Weapons_Claybeg_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.07:906][871]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Claybeg/T_Medieval_Weapons_Claybeg_T.T_Medieval_Weapons_Claybeg_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.12:938][397]LogMeshUtilities: Finished distance field build in 5.0s - 7x7x21 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, SM_Medieval_Weapons_Claybeg
+[2026.02.27-15.53.15:902][682]Cmd: TRANSACTION UNDO
+[2026.02.27-15.53.15:902][682]LogEditorTransaction: Undo Set Rotation
+[2026.02.27-15.53.17:813][828]Cmd: TRANSACTION UNDO
+[2026.02.27-15.53.17:813][828]LogEditorTransaction: Undo Set Rotation
+[2026.02.27-15.53.34:139][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword
+[2026.02.27-15.53.34:139][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword
+[2026.02.27-15.53.34:139][306]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_555
+[2026.02.27-15.53.35:045][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.27-15.53.35:046][389]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.27-15.53.35:054][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword
+[2026.02.27-15.53.35:054][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword
+[2026.02.27-15.53.35:055][389]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Backsword.SM_Medieval_Weapons_Backsword as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_556
+[2026.02.27-15.53.49:502][750]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.53.49:698][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh
+[2026.02.27-15.53.49:698][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh
+[2026.02.27-15.53.49:699][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_557
+[2026.02.27-15.53.49:700][753]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_MelPuttahBemoh (Required Memory Estimate: 7.832696 MB)...
+[2026.02.27-15.53.49:716][753]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh) ...
+[2026.02.27-15.53.49:740][753]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_MelPuttahBemoh/T_Medieval_Weapons_MelPuttahBemoh_B.T_Medieval_Weapons_MelPuttahBemoh_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.49:765][753]LogStaticMesh: Built static mesh [0.07s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh
+[2026.02.27-15.53.49:846][755]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_MelPuttahBemoh/T_Medieval_Weapons_MelPuttahBemoh_AO_R_MT.T_Medieval_Weapons_MelPuttahBemoh_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.50:699][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.27-15.53.50:700][824]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.27-15.53.50:709][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh
+[2026.02.27-15.53.50:709][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh
+[2026.02.27-15.53.50:711][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_MelPuttahBemoh.SM_Medieval_Weapons_MelPuttahBemoh as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_558
+[2026.02.27-15.53.51:202][859]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_MelPuttahBemoh/T_Medieval_Weapons_MelPuttahBemoh_BC.T_Medieval_Weapons_MelPuttahBemoh_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.51:418][876]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_MelPuttahBemoh/T_Medieval_Weapons_MelPuttahBemoh_N.T_Medieval_Weapons_MelPuttahBemoh_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.53.52:372][961]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_MelPuttahBemoh/T_Medieval_Weapons_MelPuttahBemoh_T.T_Medieval_Weapons_MelPuttahBemoh_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.22:930][878]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.54.23:085][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan
+[2026.02.27-15.54.23:085][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan
+[2026.02.27-15.54.23:086][878]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_559
+[2026.02.27-15.54.23:087][878]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Yatagan (Required Memory Estimate: 3.662307 MB)...
+[2026.02.27-15.54.23:103][878]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan) ...
+[2026.02.27-15.54.23:118][878]LogStaticMesh: Built static mesh [0.03s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan
+[2026.02.27-15.54.23:208][882]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Yatagan/T_Medieval_Weapons_Yatagan_AO_R_MT.T_Medieval_Weapons_Yatagan_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.23:235][884]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Yatagan/T_Medieval_Weapons_Yatagan_B.T_Medieval_Weapons_Yatagan_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.24:017][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.27-15.54.24:018][950]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.02.27-15.54.24:025][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan
+[2026.02.27-15.54.24:025][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan
+[2026.02.27-15.54.24:027][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Yatagan.SM_Medieval_Weapons_Yatagan as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_560
+[2026.02.27-15.54.24:380][969]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Yatagan/T_Medieval_Weapons_Yatagan_BC.T_Medieval_Weapons_Yatagan_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.24:764][  4]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Yatagan/T_Medieval_Weapons_Yatagan_N.T_Medieval_Weapons_Yatagan_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.25:632][ 76]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Yatagan/T_Medieval_Weapons_Yatagan_T.T_Medieval_Weapons_Yatagan_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.43:719][889]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.54.43:827][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar
+[2026.02.27-15.54.43:827][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar
+[2026.02.27-15.54.43:828][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_561
+[2026.02.27-15.54.43:828][889]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Talwar (Required Memory Estimate: 6.379378 MB)...
+[2026.02.27-15.54.43:845][889]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar) ...
+[2026.02.27-15.54.43:879][889]LogStaticMesh: Built static mesh [0.05s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar
+[2026.02.27-15.54.44:038][899]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Talwar/T_Medieval_Weapons_Talwar_B.T_Medieval_Weapons_Talwar_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.44:150][906]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Talwar/T_Medieval_Weapons_Talwar_AO_R_MT.T_Medieval_Weapons_Talwar_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.44:447][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.27-15.54.44:449][929]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.27-15.54.44:458][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar
+[2026.02.27-15.54.44:458][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar
+[2026.02.27-15.54.44:460][929]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Talwar.SM_Medieval_Weapons_Talwar as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_562
+[2026.02.27-15.54.45:840][ 51]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Talwar/T_Medieval_Weapons_Talwar_BC.T_Medieval_Weapons_Talwar_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.46:232][ 83]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Talwar/T_Medieval_Weapons_Talwar_N.T_Medieval_Weapons_Talwar_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.47:317][184]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Talwar/T_Medieval_Weapons_Talwar_T.T_Medieval_Weapons_Talwar_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.57:888][169]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.54.58:096][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea
+[2026.02.27-15.54.58:096][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea
+[2026.02.27-15.54.58:096][172]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_563
+[2026.02.27-15.54.58:097][172]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Cinquedea (Required Memory Estimate: 5.060843 MB)...
+[2026.02.27-15.54.58:113][172]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea) ...
+[2026.02.27-15.54.58:140][172]LogStaticMesh: Built static mesh [0.04s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea
+[2026.02.27-15.54.58:221][176]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Cinquedea/T_Medieval_Weapons_Cinquedea_B.T_Medieval_Weapons_Cinquedea_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.58:309][181]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Cinquedea/T_Medieval_Weapons_Cinquedea_AO_R_MT.T_Medieval_Weapons_Cinquedea_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.54.58:569][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.27-15.54.58:570][198]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.27-15.54.58:579][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea
+[2026.02.27-15.54.58:580][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea
+[2026.02.27-15.54.58:582][198]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Cinquedea.SM_Medieval_Weapons_Cinquedea as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_564
+[2026.02.27-15.55.00:608][381]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Cinquedea/T_Medieval_Weapons_Cinquedea_BC.T_Medieval_Weapons_Cinquedea_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.00:933][407]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Cinquedea/T_Medieval_Weapons_Cinquedea_N.T_Medieval_Weapons_Cinquedea_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.02:133][514]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Cinquedea/T_Medieval_Weapons_Cinquedea_T.T_Medieval_Weapons_Cinquedea_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.14:277][776]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2026.02.27-15.55.14:277][776]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2026.02.27-15.55.14:299][776]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.TSR.Resurrection:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2026.02.27-15.55.14:299][776]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2026.02.27-15.55.14:300][776]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2026.02.27-15.55.14:300][776]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2026.02.27-15.55.14:300][776]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2026.02.27-15.55.14:300][776]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2026.02.27-15.55.14:300][776]LogConfig: Set CVar [[r.SkylightIntensityMultiplier:1.0]]
+[2026.02.27-15.55.14:300][776]LogConfig: Set CVar [[r.AOQuality:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.DetailMode:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2026.02.27-15.55.14:313][776]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2026.02.27-15.55.14:313][776]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2026.02.27-15.55.14:432][776]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.27-15.55.15:027][781]LogContentStreaming: Texture pool size now 600 MB
+[2026.02.27-15.55.15:027][781]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.02.27-15.55.40:296][497]Cmd: DELETE
+[2026.02.27-15.55.40:296][497]Cmd: ACTOR DELETE
+[2026.02.27-15.55.40:311][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.27-15.55.40:351][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.27-15.55.40:352][497]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2026.02.27-15.55.47:805][ 47]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.55.48:057][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01
+[2026.02.27-15.55.48:057][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01
+[2026.02.27-15.55.48:058][ 57]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_565
+[2026.02.27-15.55.48:058][ 57]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Rack_01 (Required Memory Estimate: 1.601272 MB)...
+[2026.02.27-15.55.48:075][ 57]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01) ...
+[2026.02.27-15.55.48:079][ 57]LogStaticMesh: Built static mesh [0.02s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01
+[2026.02.27-15.55.48:286][ 71]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Rack_01/T_Medieval_Wepons_Rack_01_AO_R_MT.T_Medieval_Wepons_Rack_01_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.48:372][ 76]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Rack_01/T_Medieval_Wepons_Rack_01_B.T_Medieval_Wepons_Rack_01_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.48:836][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.27-15.55.48:838][113]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.27-15.55.48:846][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01
+[2026.02.27-15.55.48:846][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01
+[2026.02.27-15.55.48:847][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Rack_01.SM_Medieval_Weapons_Rack_01 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_566
+[2026.02.27-15.55.51:370][324]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Rack_01/T_Medieval_Wepons_Rack_01_BC.T_Medieval_Wepons_Rack_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.51:700][344]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Rack_01/T_Medieval_Wepons_Rack_01_N.T_Medieval_Wepons_Rack_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.55.53:710][468]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Rack_01/T_Medieval_Wepons_Rack_01_T.T_Medieval_Wepons_Rack_01_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.02:030][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2136.065918
+[2026.02.27-15.56.02:213][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-15.56.02:213][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2136.235596, Update Interval: 307.234711
+[2026.02.27-15.56.14:982][641]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.56.15:290][657]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Panzerbrecher/T_Medieval_Weapons_Panzerbrecher_B.T_Medieval_Weapons_Panzerbrecher_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.15:400][663]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Panzerbrecher/T_Medieval_Weapons_Panzerbrecher_AO_R_MT.T_Medieval_Weapons_Panzerbrecher_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.15:450][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher
+[2026.02.27-15.56.15:450][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher
+[2026.02.27-15.56.15:451][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_567
+[2026.02.27-15.56.15:452][665]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Panzerbrecher (Required Memory Estimate: 6.241364 MB)...
+[2026.02.27-15.56.15:468][665]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher) ...
+[2026.02.27-15.56.15:501][665]LogStaticMesh: Built static mesh [0.05s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher
+[2026.02.27-15.56.16:271][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.27-15.56.16:272][718]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.27-15.56.16:285][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher
+[2026.02.27-15.56.16:285][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher
+[2026.02.27-15.56.16:287][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Panzerbrecher.SM_Medieval_Weapons_Panzerbrecher as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_568
+[2026.02.27-15.56.16:943][750]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Panzerbrecher/T_Medieval_Weapons_Panzerbrecher_BC.T_Medieval_Weapons_Panzerbrecher_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.17:194][765]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Panzerbrecher/T_Medieval_Weapons_Panzerbrecher_N.T_Medieval_Weapons_Panzerbrecher_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.18:174][827]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Panzerbrecher/T_Medieval_Weapons_Panzerbrecher_T.T_Medieval_Weapons_Panzerbrecher_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.56.23:542][166]Cmd: TRANSACTION UNDO
+[2026.02.27-15.56.23:542][166]LogEditorTransaction: Undo Set Rotation
+[2026.02.27-15.56.50:621][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai
+[2026.02.27-15.56.50:621][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai
+[2026.02.27-15.56.50:622][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_569
+[2026.02.27-15.56.51:734][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.27-15.56.51:734][963]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.02.27-15.56.51:747][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai
+[2026.02.27-15.56.51:747][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai
+[2026.02.27-15.56.51:748][963]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Sai.SM_Medieval_Weapons_Sai as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_570
+[2026.02.27-15.57.19:988][678]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-15.57.20:336][689]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Shotel/T_Medieval_Weapons_Shotel_B.T_Medieval_Weapons_Shotel_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.57.20:338][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel
+[2026.02.27-15.57.20:338][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel
+[2026.02.27-15.57.20:339][689]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_571
+[2026.02.27-15.57.20:340][689]LogStaticMesh: Display: Building static mesh SM_Medieval_Weapons_Shotel (Required Memory Estimate: 6.269176 MB)...
+[2026.02.27-15.57.20:357][689]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel) ...
+[2026.02.27-15.57.20:398][689]LogStaticMesh: Built static mesh [0.06s] /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel
+[2026.02.27-15.57.20:425][689]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Shotel/T_Medieval_Weapons_Shotel_AO_R_MT.T_Medieval_Weapons_Shotel_AO_R_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.57.21:216][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.27-15.57.21:217][738]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.27-15.57.21:229][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel
+[2026.02.27-15.57.21:229][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel
+[2026.02.27-15.57.21:231][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/Dungeon/Swords/Meshes/SM_Medieval_Weapons_Shotel.SM_Medieval_Weapons_Shotel as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_572
+[2026.02.27-15.57.21:790][761]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Shotel/T_Medieval_Weapons_Shotel_BC.T_Medieval_Weapons_Shotel_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.57.22:130][783]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Shotel/T_Medieval_Weapons_Shotel_N.T_Medieval_Weapons_Shotel_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.57.22:993][841]LogTexture: Display: Building textures: /Game/Dungeon/Swords/Textures/Medieval_Weapons_Shotel/T_Medieval_Weapons_Shotel_T.T_Medieval_Weapons_Shotel_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.27-15.57.41:404][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.27-15.57.41:474][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jason/Documents/GitHub/placementProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.27-15.57.41:561][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.27-15.57.41:889][122]LogSavePackage: Moving output files for package: /Game/NewMap
+[2026.02.27-15.57.41:890][122]LogSavePackage: Moving 'C:/Users/jason/Documents/GitHub/placementProject2/Saved/NewMapCF9E23464FB988E174CB838BCF32335A.tmp' to 'C:/Users/jason/Documents/GitHub/placementProject2/Content/NewMap.umap'
+[2026.02.27-15.57.41:954][122]LogFileHelpers: Saving map 'NewMap' took 0.481
+[2026.02.27-15.57.41:963][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 559.652 ms
+[2026.02.27-15.57.42:053][122]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.27-15.57.42:053][122]LogContentValidation: Enabled validators:
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.27-15.57.42:063][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.27-15.57.42:066][122]AssetCheck: /Game/NewMap Validating asset
+[2026.02.27-15.57.43:680][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.27-15.57.45:051][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.27-15.57.45:279][375]LogStall: Shutdown...
+[2026.02.27-15.57.45:279][375]LogStall: Shutdown complete.
+[2026.02.27-15.57.45:467][375]LogSlate: Window 'Fab' being destroyed
+[2026.02.27-15.57.45:470][375]LogSlate: Window 'ProjectPlacement - Unreal Editor' being destroyed
+[2026.02.27-15.57.45:980][375]Cmd: QUIT_EDITOR
+[2026.02.27-15.57.45:980][376]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.27-15.57.46:061][376]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.27-15.57.46:100][376]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.27-15.57.46:100][376]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.27-15.57.46:340][376]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.46:341][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.46:656][376]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.27-15.57.46:676][376]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.27-15.57.46:839][376]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.27-15.57.47:036][376]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:036][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:049][376]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:049][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:049][376]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:049][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:049][376]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:050][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:050][376]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:050][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:050][376]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:050][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:050][376]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:050][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:050][376]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:050][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:050][376]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:051][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:051][376]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:051][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:051][376]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:051][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:051][376]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:051][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:098][376]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:098][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:098][376]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-15.57.47:098][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-15.57.47:209][376]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.27-15.57.47:216][376]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.27-15.57.47:277][376]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.27-15.57.47:364][376]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.27-15.57.47:364][376]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.27-15.57.47:364][376]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.02.27-15.57.47:364][376]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.27-15.57.47:460][376]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.27-15.57.47:462][376]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.27-15.57.47:490][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.27-15.57.47:514][376]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.27-15.57.47:608][376]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.27-15.57.47:618][376]LogExit: Preparing to exit.
+[2026.02.27-15.57.48:326][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.27-15.57.49:136][376]LogEditorDataStorage: Deinitializing
+[2026.02.27-15.57.51:686][376]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.27-15.57.53:009][376]LogExit: Editor shut down
+[2026.02.27-15.57.53:027][376]LogExit: Transaction tracking system shut down
+[2026.02.27-15.58.00:512][376]LogExit: Object subsystem successfully closed.
+[2026.02.27-15.58.00:562][376]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.27-15.58.03:343][376]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/90d7ef74-9b80-4ad7-bbd8-9a805d2d864e.
+[2026.02.27-15.58.04:426][376]LogMemoryProfiler: Shutdown
+[2026.02.27-15.58.04:455][376]LogNetworkingProfiler: Shutdown
+[2026.02.27-15.58.04:455][376]LoadingProfiler: Shutdown
+[2026.02.27-15.58.04:457][376]LogTimingProfiler: Shutdown
+[2026.02.27-15.58.04:593][376]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.27-15.58.04:615][376]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.27-15.58.07:469][376]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.27-15.58.07:520][376]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.27-15.58.07:766][376]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.27-15.58.07:766][376]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBA2B3B8-4899-2475-27CC-35927BBF0291%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2785edf84d3d5450faabad89ed7c3937%7C1aff1ab8b88f4100a116e739a369ff18%7C66365cbe-1b63-48cd-ace5-3bb6be52fa97&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.27-15.58.08:520][376]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.27-15.58.08:551][376]RenderDocPlugin: plugin has been unloaded.
+[2026.02.27-15.58.08:862][376]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.27-15.58.08:862][376]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.27-15.58.08:862][376]LogPakFile: Destroying PakPlatformFile
+[2026.02.27-15.58.09:529][376]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.27-15.58.09:685][376]LogExit: Exiting.
+[2026.02.27-15.58.09:741][376]Log file closed, 02/27/26 15:58:09
