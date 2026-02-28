@@ -1,8 +1,5 @@
-2026/02/27-16:07:54.049 4d930 Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/27-16:07:54.050 4d930 Recovering log #4
-2026/02/27-16:07:54.050 4d930 Level-0 table #7: started
-2026/02/27-16:07:54.056 4d930 Level-0 table #7: 63924 bytes OK
-2026/02/27-16:07:54.062 4d930 Delete type=0 #4
-2026/02/27-16:12:03.813 645ac Level-0 table #10: started
-2026/02/27-16:12:03.839 645ac Level-0 table #10: 81179 bytes OK
-2026/02/27-16:12:03.848 645ac Delete type=0 #8
+2026/02/28-11:57:35.086 5cf6c Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/28-11:57:35.123 5cf6c Recovering log #9
+2026/02/28-11:57:35.188 5cf6c Level-0 table #12: started
+2026/02/28-11:57:35.285 5cf6c Level-0 table #12: 88139 bytes OK
+2026/02/28-11:57:35.290 5cf6c Delete type=0 #9
