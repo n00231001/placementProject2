@@ -1,2 +1,5 @@
-2026/02/23-15:19:40.840 aec Creating DB C:/Users/N00233116/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/02/23-15:19:40.850 aec Reusing MANIFEST C:/Users/N00233116/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-14:06:20.047 7804 Creating DB C:/Users/N00233116/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/03/02-14:06:20.057 7804 Reusing MANIFEST C:/Users/N00233116/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-14:50:30.622 7ad4 Level-0 table #5: started
+2026/03/02-14:50:30.625 7ad4 Level-0 table #5: 67440 bytes OK
+2026/03/02-14:50:30.626 7ad4 Delete type=0 #3
