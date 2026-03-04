@@ -1,5 +1,5 @@
-2026/03/03-13:27:02.095 4bb8 Reusing MANIFEST C:/Users/n00231001/Desktop/try/ProjectPlacement/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/03-13:27:02.095 4bb8 Recovering log #64
-2026/03/03-13:27:02.095 4bb8 Level-0 table #68: started
-2026/03/03-13:27:02.098 4bb8 Level-0 table #68: 76395 bytes OK
-2026/03/03-13:27:02.099 4bb8 Delete type=0 #64
+2026/03/04-10:12:47.889 1700 Reusing MANIFEST C:/Users/n00231001/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/04-10:12:47.889 1700 Recovering log #69
+2026/03/04-10:12:47.890 1700 Level-0 table #71: started
+2026/03/04-10:12:47.892 1700 Level-0 table #71: 76038 bytes OK
+2026/03/04-10:12:47.893 1700 Delete type=0 #69
