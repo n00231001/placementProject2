@@ -1,9 +1,20 @@
-[0305/160312.926:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0305/160336.169:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0305/160456.358:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0305/160456.443:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0305/160456.443:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Cache to C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\old_Cache_000
-[0305/160456.443:ERROR:disk_cache.cc(184)] Unable to create cache
-[0305/160513.737:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0305/160544.573:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-[0305/160544.573:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0306/134218.895:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0306/134359.537:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0306/140955.387:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0306/140955.829:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0306/140957.034:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0306/140957.078:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0306/140957.264:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
