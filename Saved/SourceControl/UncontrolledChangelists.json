@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/AI_Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/GR/H62IQ3OI11HGIK4R2U9P55.uasset",
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/DK/BRLV21TFLTKBVH4H1NY0SV.uasset",
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/3J/KFQHKNA42BV326F5J6V0FD.uasset",
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UL/JY7SJSEUCHIIC58PGS6RTC.uasset",
+				"C:/Users/taidh/Documents/GitHub/placementProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/BO/7KFF21FAUCXB1877J9JFO8.uasset",
 				"C:/Epic Games/UE_5.6/placementProject2/Content/AI_Enemies/BP_Enemy1.uasset",
 				"C:/Epic Games/UE_5.6/placementProject2/Content/AI_Enemies/BP_Enemyman.uasset",
 				"C:/Epic Games/UE_5.6/placementProject2/Content/Components/BP_health.uasset",
