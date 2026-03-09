@@ -1,8 +1,21 @@
-2026/03/06-14:29:36.504 1d50 Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/06-14:29:36.504 1d50 Recovering log #86
-2026/03/06-14:29:36.505 1d50 Level-0 table #90: started
-2026/03/06-14:29:36.510 1d50 Level-0 table #90: 74626 bytes OK
-2026/03/06-14:29:36.515 1d50 Delete type=0 #86
-2026/03/06-14:31:41.282 426c Level-0 table #93: started
-2026/03/06-14:31:41.289 426c Level-0 table #93: 74156 bytes OK
-2026/03/06-14:31:41.292 426c Delete type=0 #91
+2026/03/09-10:32:57.554 522c Reusing MANIFEST C:/Users/N00231001/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/09-10:32:57.556 522c Recovering log #92
+2026/03/09-10:32:57.556 522c Reusing old log C:/Users/N00231001/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000092.log 
+2026/03/09-10:34:00.712 522c Level-0 table #96: started
+2026/03/09-10:34:00.715 522c Level-0 table #96: 73006 bytes OK
+2026/03/09-10:34:00.716 522c Delete type=0 #92
+2026/03/09-10:37:05.227 4b08 Level-0 table #98: started
+2026/03/09-10:37:05.230 4b08 Level-0 table #98: 72747 bytes OK
+2026/03/09-10:37:05.232 4b08 Delete type=0 #95
+2026/03/09-10:37:05.232 4b08 Compacting 4@0 + 1@1 files
+2026/03/09-10:37:05.236 4b08 Generated table #99@0: 4 keys, 36444 bytes
+2026/03/09-10:37:05.236 4b08 Compacted 4@0 + 1@1 files => 36444 bytes
+2026/03/09-10:37:05.236 4b08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/09-10:37:05.237 4b08 Delete type=2 #88
+2026/03/09-10:37:05.237 4b08 Delete type=2 #90
+2026/03/09-10:37:05.237 4b08 Delete type=2 #93
+2026/03/09-10:37:05.237 4b08 Delete type=2 #96
+2026/03/09-10:37:05.237 4b08 Delete type=2 #98
+2026/03/09-10:38:03.470 522c Level-0 table #101: started
+2026/03/09-10:38:03.474 522c Level-0 table #101: 73163 bytes OK
+2026/03/09-10:38:03.474 522c Delete type=0 #97
