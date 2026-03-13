@@ -1,2 +1,3 @@
-2026/03/06-17:32:30.572 20bc Creating DB C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/03/06-17:32:30.830 20bc Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/13-12:37:24.875 327c Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/13-12:37:24.889 327c Recovering log #3
+2026/03/13-12:37:24.890 327c Reusing old log C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
