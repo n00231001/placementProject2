@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/blueprints/weapons/BP_BaseWeapon.uasset",
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/bullet/Grenade.uasset",
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/Fab/Gold_Holy_Grenade/Material_001.uasset",
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/Fab/Gold_Holy_Grenade/_Gold_Silver_Toned_Hi_0222165121_texture.uasset",
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/Fab/Gold_Holy_Grenade/_Gold_Silver_Toned_Hi_0222165121_texture_png.uasset",
+				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/Fab/Gold_Holy_Grenade/texture_0.uasset",
 				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/ModularGuns/M4/Body_BaseColor.uasset",
 				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/ModularGuns/M4/Body_Metallic.uasset",
 				"C:/Users/steph/OneDrive/Desktop/placementProject2-Stephen/Content/ModularGuns/M4/Body_Normal.uasset",
