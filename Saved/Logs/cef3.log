@@ -2,3 +2,7 @@
 [0415/145751.443:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
 [0415/154812.526:ERROR:block_files.cc(109)] Failing CreateMapBlock
 [0415/154812.527:ERROR:entry_impl.cc(998)] Failed to save user data
+[0415/162916.133:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0415/162916.148:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0415/162921.136:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0415/162921.155:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
