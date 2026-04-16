@@ -5,21 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/steph/Desktop/placementProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/WBP_AmmoCount.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseWeapon.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/enemies/BP_enemy.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/NewMap.umap",
-				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/BP_Enemy.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/UI/WB_Crosshair.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/WB_Crosshair.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/UI/T_CH002.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/CrosshairFreePack/Textures/T_CH002.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/UI/BP_UI.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseSemiAutoWeapon.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_ShotgunWeapon.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseFullAutoWeapon.uasset"
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/NewMap.umap",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/UI/BP_UI.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/enemies/BP_enemy.uasset"
 			]
 		}
 	]
