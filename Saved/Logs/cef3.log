@@ -14,3 +14,7 @@
 [0417/211051.094:ERROR:entry_impl.cc(1075)] No file for 800001c0
 [0417/211051.457:ERROR:entry_impl.cc(1075)] No file for 80000170
 [0417/211051.877:ERROR:entry_impl.cc(1075)] No file for 80000198
+[0417/215821.339:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0417/215821.366:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0417/215826.359:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0417/215826.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
