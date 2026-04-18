@@ -6,7 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_SemiAutoWeapon_Pickup.uasset",
-				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/GuidlineText/WBP_Tutorial01.uasset"
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/GuidlineText/WBP_Tutorial01.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/WBP_HUD.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/UI/WBP_AmmoCount.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/WBP_AmmoCount.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/UI/WBP_HUD.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/WB_Crosshair.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/UI/WB_Crosshair.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/NewMap.umap",
+				"C:/Users/steph/Desktop/placementProject2/Content/UI/BP_UI.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseWeapon.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_FullAutoWeapon_Pickup1.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_ShotgunWeapon_Pickup.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/GuidlineText/WBP_Tutorial02.uasset",
+				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/GuidlineText/WBP_Tutorial03.uasset"
 			]
 		}
 	]
