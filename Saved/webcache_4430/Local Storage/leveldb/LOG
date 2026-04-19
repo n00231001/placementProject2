@@ -1,2 +1,5 @@
 2026/04/19-13:10:48.314 4e70 Creating DB C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
 2026/04/19-13:10:48.321 4e70 Reusing MANIFEST C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-15:32:38.652 43d8 Level-0 table #5: started
+2026/04/19-15:32:38.655 43d8 Level-0 table #5: 65741 bytes OK
+2026/04/19-15:32:38.657 43d8 Delete type=0 #3
