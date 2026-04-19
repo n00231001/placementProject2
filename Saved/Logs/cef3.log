@@ -1,20 +1,32 @@
-[0417/210508.715:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0417/210511.604:ERROR:entry_impl.cc(1075)] No file for 8000010d
-[0417/210511.605:ERROR:entry_impl.cc(1075)] No file for 8000010c
-[0417/210512.785:ERROR:entry_impl.cc(1075)] No file for 80000115
-[0417/210512.786:ERROR:entry_impl.cc(1075)] No file for 80000110
-[0417/210512.847:ERROR:entry_impl.cc(1075)] No file for 80000112
-[0417/210512.847:ERROR:entry_impl.cc(1075)] No file for 80000114
-[0417/210515.511:ERROR:entry_impl.cc(1075)] No file for 8000010e
-[0417/210707.569:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0417/211031.582:ERROR:entry_impl.cc(1075)] No file for 800001b6
-[0417/211050.994:ERROR:entry_impl.cc(1075)] No file for 8000015f
-[0417/211050.994:ERROR:entry_impl.cc(1075)] No file for 80000146
-[0417/211051.009:ERROR:entry_impl.cc(1075)] No file for 800001c6
-[0417/211051.094:ERROR:entry_impl.cc(1075)] No file for 800001c0
-[0417/211051.457:ERROR:entry_impl.cc(1075)] No file for 80000170
-[0417/211051.877:ERROR:entry_impl.cc(1075)] No file for 80000198
-[0417/215821.339:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0417/215821.366:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0417/215826.359:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0417/215826.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0419/131049.610:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0419/131248.505:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0419/144800.031:ERROR:entry_impl.cc(1075)] No file for 8000012f
+[0419/144801.908:ERROR:entry_impl.cc(1075)] No file for 80000161
+[0419/144801.945:ERROR:entry_impl.cc(1075)] No file for 80000165
+[0419/144803.339:ERROR:entry_impl.cc(1075)] No file for 8000014a
+[0419/144803.346:ERROR:entry_impl.cc(1075)] No file for 8000016a
+[0419/144808.677:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 139
+[0419/144809.538:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0419/144809.717:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0419/144810.067:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0419/144810.068:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0419/144810.070:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0419/144810.077:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0419/144810.162:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
