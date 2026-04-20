@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Content/NewMap.umap",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_SemiAutoWeapon_Pickup.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseSemiAutoWeapon.uasset"
 			]
