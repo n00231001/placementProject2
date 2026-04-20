@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/Widgets/GuidlineText/WBP_Tutorial01.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/Widgets/BP_FirstTutorial.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/AI_Enemies/BP_Enemyman.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/blueprints/BP_Enemy.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/blueprints/weapons/BP_BaseWeapon.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/AI_Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/AI_Enemies/BP_ranger.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/UI/BP_UI.uasset",
+				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/NewMap.umap",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_SemiAutoWeapon_Pickup.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseSemiAutoWeapon.uasset"
 			]
