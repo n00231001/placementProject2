@@ -1,4 +1,14 @@
-2026/04/20-11:58:53.773 3ccc Creating DB C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Saved/webcache_4430\Session Storage since it was missing.
-2026/04/20-11:58:53.777 3ccc Reusing MANIFEST C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2026/04/20-11:58:53.777 3ccc Recovering log #3
-2026/04/20-11:58:53.778 3ccc Reusing old log C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Saved/webcache_4430\Session Storage/000003.log 
+<<<<<<< HEAD
+<<<<<<< HEAD
+2026/04/17-12:32:41.009 e8c0 Creating DB C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Session Storage since it was missing.
+2026/04/17-12:32:41.036 e8c0 Reusing MANIFEST C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2026/04/17-12:32:41.049 e8c0 Recovering log #3
+2026/04/17-12:32:41.051 e8c0 Reusing old log C:/Users/jason/Documents/GitHub/placementProject2/Saved/webcache_4430\Session Storage/000003.log 
+=======
+2026/04/17-21:05:10.048 39bc Creating DB C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Session Storage since it was missing.
+2026/04/17-21:05:10.054 39bc Reusing MANIFEST C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Session Storage/MANIFEST-000001
+>>>>>>> Stephen2
+=======
+2026/04/19-13:10:51.520 2928 Creating DB C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Session Storage since it was missing.
+2026/04/19-13:10:51.526 2928 Reusing MANIFEST C:/Users/steph/Desktop/placementProject2/Saved/webcache_4430\Session Storage/MANIFEST-000001
+>>>>>>> Stephen2
