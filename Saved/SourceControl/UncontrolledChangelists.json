@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/Widgets/GuidlineText/WBP_Tutorial01.uasset",
 				"C:/Users/N00233116/Desktop/placementProject2-Stephen/Content/Widgets/BP_FirstTutorial.uasset",
@@ -63,6 +64,9 @@
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_BaseWeapon_Pickup.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_ShotgunWeapon_Pickup.uasset",
 >>>>>>> Stephen2
+=======
+				"C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Content/NewMap.umap",
+>>>>>>> c06b7852bd606a561a9487710e55981a65a95036
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weaponsPickups/BP_SemiAutoWeapon_Pickup.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/blueprints/weapons/BP_BaseSemiAutoWeapon.uasset"
 			]
