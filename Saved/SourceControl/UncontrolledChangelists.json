@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/NewMap.umap",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/GM_GameModeMainMenu.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/MainMenuScreen.umap",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/UI/MainMenu.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/blueprints/weaponsPickups/BP_FullAutoWeapon_Pickup1.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/blueprints/weaponsPickups/BP_SemiAutoWeapon_Pickup.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/blueprints/weaponsPickups/BP_ShotgunWeapon_Pickup.uasset",
+				"C:/Users/jason/Documents/GitHub/placementProject2/Content/UnCollectedCrossBowAnimation.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/AI_EnemiesFixed/BossEnemy/BP_Enemy_Boss.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/AI_EnemiesFixed/MageEnemy/BP_Enemy_Mage.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/AI_EnemiesFixed/MeleeEnemy/BP_Enemy_Melee.uasset",
@@ -18,10 +26,6 @@
 				"C:/Users/steph/Desktop/placementProject2/Content/Widgets/UltimateBar.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/BP_combatArena.uasset",
 				"C:/Users/steph/Desktop/placementProject2/Content/BP_combatArena1.uasset",
-				"C:/Users/jason/Documents/GitHub/placementProject2/Content/NewMap.umap",
-				"C:/Users/jason/Documents/GitHub/placementProject2/Content/GM_GameModeMainMenu.uasset",
-				"C:/Users/jason/Documents/GitHub/placementProject2/Content/MainMenuScreen.umap",
-				"C:/Users/jason/Documents/GitHub/placementProject2/Content/UI/MainMenu.uasset",
 				"C:/Users/N00234049/Desktop/New folder/Content/NewMap.umap",
 				"C:/Users/n00231001/Desktop/ProjectPlacement/placementProject2/Content/NewMap.umap"
 			]
